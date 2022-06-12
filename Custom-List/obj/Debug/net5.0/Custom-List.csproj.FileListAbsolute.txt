@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Custom-List\Custom-List\bin\Debug\net5.0\Custom-List.exe
+C:\Users\user\source\repos\Custom-List\Custom-List\bin\Debug\net5.0\Custom-List.deps.json
+C:\Users\user\source\repos\Custom-List\Custom-List\bin\Debug\net5.0\Custom-List.runtimeconfig.json
+C:\Users\user\source\repos\Custom-List\Custom-List\bin\Debug\net5.0\Custom-List.runtimeconfig.dev.json
+C:\Users\user\source\repos\Custom-List\Custom-List\bin\Debug\net5.0\Custom-List.dll
+C:\Users\user\source\repos\Custom-List\Custom-List\bin\Debug\net5.0\ref\Custom-List.dll
+C:\Users\user\source\repos\Custom-List\Custom-List\bin\Debug\net5.0\Custom-List.pdb
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.AssemblyInfo.cs
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.dll
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\ref\Custom-List.dll
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.pdb
+C:\Users\user\source\repos\Custom-List\Custom-List\obj\Debug\net5.0\Custom-List.genruntimeconfig.cache
